@@ -10,3 +10,7 @@ npm i or yarn add
 npm start or yarn add
 
 happy coding  . . . .. 
+
+This the final result, the code was I create:
+
+![alt text](https://raw.githubusercontent.com/zidniryi/Simple-React-Send-Siblings/master/src/Screenshot%20from%202019-06-11%2021-14-55.jpg)
